@@ -56,5 +56,5 @@ Error Handling: Proper error handling is crucial for providing a reliable and us
     2. morgan
     3. nodemon
 #### Required files:
-    - Create logBook.log to store logs (Used createWriteStream so it will generate automatically)
-    - Create users.json file to store users data
+- Create logBook.log to store logs (Used createWriteStream so it will generate automatically)
+- Create users.json file to store users data
